@@ -17,3 +17,7 @@
 <p>Therefore, we propose a vehicle-based computer vision approach to identify and analysis potholes, vehicles using a car-mounted/ street-mounted camera. The results will then be logged together with the GPS coordinates of the pothole for use by technical experts and road maintenance agencies and to aid drivers. Drivers will immediately get a warning notification to take immediate action if potholes are detected in real-time. 
 Our model will also calculate the depth of the pothole and send an alert to the local PWD office for the immediate repair of the road.</p>
 <hr>
+
+<h3> Our approach for Pothole detection</h3>
+<p>We employed YOLOv7. We started with the YOLOv5. The outcome was encouraging, but further accuracy was anticipated. The given CSV file (from Kaggle) was initially converted to the YOLO format. Despite the application of image processing, the accuracy did not improve. Thus, we utilized the provided images without any preprocessing. Image augmentation was carried out using the albumentations library, which significantly boosted the score. src folder contains all the helper scripts.</p>
+<hr>
