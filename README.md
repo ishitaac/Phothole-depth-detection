@@ -12,7 +12,7 @@
 <hr>
 
 <h3>Proposed Solution:</h3>
-<p>The developing nations like India use manual inspection methods to recognize the potholes leading to inaccurate estimation as it is highly dependent on individual experience. These manual inspection methods require human interventions that are time consuming and costly. <.p>
+<p>The developing nations like India use manual inspection methods to recognize the potholes leading to inaccurate estimation as it is highly dependent on individual experience. These manual inspection methods require human interventions that are time consuming and costly. </p>
 
 <p>Therefore, we propose a vehicle-based computer vision approach to identify and analysis potholes, vehicles using a car-mounted/ street-mounted camera. The results will then be logged together with the GPS coordinates of the pothole for use by technical experts and road maintenance agencies and to aid drivers. Drivers will immediately get a warning notification to take immediate action if potholes are detected in real-time. 
 Our model will also calculate the depth of the pothole and send an alert to the local PWD office for the immediate repair of the road.</p>
